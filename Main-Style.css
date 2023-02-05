@@ -1,6 +1,17 @@
 #Title {
     text-align: center;
 }
+#MyImage{
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    width: 40%;
+}
+#ProfileDetails{
+    text-align: left;
+    line-height: 1;
+    margin-left: 8%;
+}
 p {
     text-align: center;
     line-height: 1.5;
